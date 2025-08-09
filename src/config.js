@@ -138,14 +138,14 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "项目 1", subtitle: "1,000 公米的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "2,000 公米的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "3,000 公米的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
-		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "4,000 公米的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
-		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "5,000 公米的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
-		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "6,000 公米的奇迹r", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobnp", show: false },
-		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "7,000 公米的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
-		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "8,000 公米的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "项目1，需科学上网", subtitle: "1,000 公米的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
+		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "2,000 公里的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
+		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "3,000 公里的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
+		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "4,000 公里的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
+		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "5,000 公里的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
+		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "6,000 公里的奇迹r", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobnp", show: false },
+		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "7,000 公里的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "8,000 公里的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
 	],
 
 	statement: ["备案号：XXICP备123456789号", "Copyright © 2025 Leleo"],
