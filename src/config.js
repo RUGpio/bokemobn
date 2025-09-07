@@ -138,7 +138,7 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "项目1,有时要代理", subtitle: "1,000 公里的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
+		{ go: "🚀 前往", img: "/img/20250907173235114.jpg", title: "项目1,有时要代理", subtitle: "1,000 公里的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
 		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "2,000 公里的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "3,000 公里的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "敬请期待", subtitle: "4,000 公里的奇迹", text: "如果您看到这一行，则表明我已经成功引起您的注意", url: "https://github.com/RUGpio/bokemobn", show: false },
